@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #474e5d;
+            font-family: Helvetica, sans-serif;
+        }
+
+        /* The actual timeline (the vertical ruler) */
+        .timeline {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* The actual timeline (the vertical ruler) */
+        .timeline::after {
+            content: '';
+            position: absolute;
+            width: 6px;
+            background-color: white;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            margin-left: -3px;
+        }
+
+        /* Container around content */
+        .container {
+            padding: 10px 40px;
+            position: relative;
+            background-color: inherit;
+            width: 50%;
+        }
+
+        /* The circles on the timeline */
+        .container::after {
+            content: '';
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            right: -17px;
+            background-color: white;
+            border: 4px solid #FF9F55;
+            top: 15px;
+            border-radius: 50%;
+            z-index: 1;
+        }
+
+        /* Place the container to the left */
+        .left {
+            left: 0;
+        }
+
+        /* Place the container to the right */
+        .right {
+            left: 50%;
+        }
+
+        /* Add arrows to the left container (pointing right) */
+        .left::before {
+            content: " ";
+            height: 0;
+            position: absolute;
+            top: 22px;
+            width: 0;
+            z-index: 1;
+            right: 30px;
+            border: medium solid white;
+            border-width: 10px 0 10px 10px;
+            border-color: transparent transparent transparent white;
+        }
+
+        /* Add arrows to the right container (pointing left) */
+        .right::before {
+            content: " ";
+            height: 0;
+            position: absolute;
+            top: 22px;
+            width: 0;
+            z-index: 1;
+            left: 30px;
+            border: medium solid white;
+            border-width: 10px 10px 10px 0;
+            border-color: transparent white transparent transparent;
+        }
+
+        /* Fix the circle for containers on the right side */
+        .right::after {
+            left: -16px;
+        }
+
+        /* The actual content */
+        .content {
+            padding: 20px 30px;
+            background-color: white;
+            position: relative;
+            border-radius: 6px;
+        }
+
+        /* Media queries - Responsive timeline on screens less than 600px wide */
+        @media screen and (max-width: 600px) {
+
+            /* Place the timelime to the left */
+            .timeline::after {
+                left: 31px;
+            }
+
+            /* Full-width containers */
+            .container {
+                width: 100%;
+                padding-left: 70px;
+                padding-right: 25px;
+            }
+
+            /* Make sure that all arrows are pointing leftwards */
+            .container::before {
+                left: 60px;
+                border: medium solid white;
+                border-width: 10px 10px 10px 0;
+                border-color: transparent white transparent transparent;
+            }
+
+            /* Make sure all circles are at the same spot */
+            .left::after,
+            .right::after {
+                left: 15px;
+            }
+
+            /* Make all right containers behave like the left ones */
+            .right {
+                left: 0%;
+            }
+
+            
+        }
+        .heading {
+                color: white;
+                font-size: xx-large;
+                text-align: center;
+            }
+    </style>
+</head>
+
+<body>
+    <div class="heading">
+        Story Timeline
+    </div>
+
+    <div class="timeline">
+        <div class="container left">
+            <div class="content">
+                <h2>In the middle 2018-2019</h2>
+                <p>At the TSDV (13 floor left side - TSOL group), there was a There is a guy who has a crush on a girl
+                    colleague next to him.
+                    She is very smart, personable and shy, and has a lot of people around her.
+                    He is impressed by her style, by her personality, BUT he was new in the group and
+                    had a bit of low self-esteem, so he only occasionally teased her, he didn't know what to say until
+                    she left and moved the company to the new environment. new.
+                    They only had a short conversation via FB Messenger, and then time passed</p>
+            </div>
+        </div>
+        <div class="container right">
+            <div class="content">
+                <h2>Some day in 2019</h2>
+                <p>While surfing the newsfeed, he saw her picture on a friend's post, and went to her profile. He was
+                    surprised,
+                    when did he get unfriended without knowing why??? The boy thought, hmmm</p>
+            </div>
+        </div>
+        <div class="container left">
+            <div class="content">
+                <h2>May - 2020</h2>
+                <p>He have resigned TSDV to do some new personal plan in the new environment, he moved to somewhere, and
+                    did a lot of stuff.
+                    BUT the COVID-19 pandemic getting worse, and his plan affected alot. He have changed his plan alot
+                    :(((((
+                    Time flying.....
+                </p>
+            </div>
+        </div>
+        <div class="container right">
+            <div class="content">
+                <h2>Before Lunar New Year 2022</h2>
+                <p>He is single for a long time. Heard from a sister that she's different now, she's looking for a
+                    lover, blah blah, omg.
+                    A green light sign, hahaa.
+                    He request to add friend FB one more time, and we'r flirting each other :love
+                </p>
+            </div>
+        </div>
+        <div class="container left">
+            <div class="content">
+                <h2>14/02/2022 - Valentine's Day</h2>
+                <p>Manh said: "If anyone asks me what I love, I will answer out loud to the world that I love you!
+                    I wanna build an unforgetable memory with you, hold your hands to travel, to explorer the world
+                    as well as maintain this repository together till the end of the street." </p>
+                <br />
+                <p>BE MY LOVER nhé nhé, babe, cún</p>
+                <br />
+                <p>She said: "...." </p>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
