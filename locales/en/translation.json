@@ -1,0 +1,127 @@
+{
+  "title": "Welcome to my wedding page",
+  "description": "",
+  "banner": {
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "couple": {
+    "marriedDate": "October 30th, 2022",
+    "inviation": "We invited you to celebrate our wedding",
+    "groom": {
+      "name": "Jacob",
+      "desc": "\"Why are you so tall?\" a question from strangers to the groom Cong Manh, from Ha Tay, silk village xD. Currently, I'm a software engineer in Hanoi, gentle and talkless, love green grass and sunshine, hate lies but it's just before :))))). I love photography, going to the gym and soccer, especially exploring the world with my wife 💕"
+    },
+    "bridal": {
+      "name": "Hannah",
+      "desc": "Cute girl from Nam Dinh :), currently a developer in Hanoi, who loves the green forest much more than the ocean, sometimes a bit dreamy and dreams of becoming a flower and vegetable farmer in Da Lat. While my 30th birthday is coming soon, I'm suddenly getting married, very happy  💕 hihi."
+    }
+  },
+  "event": {
+    "header": "OUR SPECIAL EVENTS",
+    "title": "Wedding Events",
+    "gift4Us": "Gift for us",
+    "groom": {
+      "name": "Groom",
+      "title": "Wedding Ceremony",
+      "address": "No. 84 Tay Son, Vu Lang village, Dan Hoa, Thanh Oai District, Ha Noi",
+      "dayTime": "Sunday, 30"
+    },
+    "bride": {
+      "name": "Bride",
+      "title": "Bride Party",
+      "address": "Hamlet 14, Xuan Phong, Xuan Truong District, Nam Dinh Province",
+      "dayTime": "Saturday, 29"
+    },
+    "monthYear": "October, 2022",
+    "accountNo": "Account Number",
+    "accountName": "Account name",
+    "bankName": "Bank name",
+    "viewMap": "View Map",
+    "fromTime": "From 10:00 AM",
+    "toTime": "To 02:00 PM"
+  },
+  "story": {
+    "header-section": "WE LOVE EACH OTHER",
+    "title": "Our Story",
+    "short-intro": "4 years, not too long, not too short, it's time for two hearts being able to find each other again...",
+    "title-1": "We met at TSDV",
+    "date-1": "4 years ago",
+    "description-1": "On that day, we were destined to be colleagues at TSDV (Toshiba); Hue—the girl who blushed with a few satellites around, and Manh—the quiet guy who loved Hue city and also liked taking photos of Hue xD. us. We had been working together on the same floor or talking to each other at breakfasts in the company, Manh was impressed by her personality, by her blushing times xD, but fate had not yet come, so we just became friends and were good colleagues.",
+    "title-2": "We were far away",
+    "date-2": "1 year later",
+    "description-2": "After a while, we each resigned from TSDV-the first company to find new challenges and YOLO with our own joys, and we did not have any contact with each other (because Hue was unfriended without any reason so far ) J",
+    "title-3": "We met again and fell in love",
+    "date-3": "Early of 2022",
+    "description-3": "Heaven and earth are favorable, spring flowers bloom, Manh made friend requests with Hue again, we talked and shared a lot about the past, two thoughts, two hearts that were unexpectedly in sync, and that's how we started to love each other.",
+    "title-4": "First trip",
+    "date-4": "15.03.2022",
+    "description-4": "A little surprise, on the occasion of Hue's birthday, we went to the romantic and dear Hue city, with many beautiful scenes and lots of delicious specialties too. As a result, we gained too much weight. (Tip: If you want to gain weight, you should go to Hue City. Then you can not stop eating xD)",
+    "title-5": "Surprise proposal",
+    "date-5": "23.08.2022",
+    "description-5": "During a foodtour trip with a dear sister far away, Manh proposed to Hue on the bank of a stream in the middle of the Madagui mountains.",
+    "title-6": "We're getting married xD",
+    "date-6": "30.10.2022",
+    "description-6": "We are really happy and need each other in this life. Happiness will be complete when there is joy and happiness from everyone we love and vice versa. We are looking forward to everyone coming to celebrate with us  💕."
+  },
+  "gallery": {
+    "header-section-01": "OUR WEDDING GALLERY",
+    "title-01": "PRE-WEDDING",
+    "short-intro-01": "\"Do what makes you Happy, be with who make you Smile, laugh as much as you Breathe, love as long as you Live\"",
+    "header-section": "",
+    "title": "Vacation of love",
+    "short-intro": "Travel through the oceans, run across a thousand roads with you, my love ..."
+  },
+  "rsvp": {
+    "header-section": "R.S.V.P",
+    "sub-title-01": "We're looking forward to celerating with you all. Kindly please reply us by Oct 23th.",
+    "sub-title-02": "For some reason, you can not join with us, please feel free to give us some kind of words from your heart below (ignore confirmation checkbox). Sincerely! Thanks 💕",
+    "modal": {
+      "title": "Do you wanna submit with the below?",
+      "cancel": "Go back",
+      "okay": "Okay!"
+    },
+    "guestName": "Guest name",
+    "email": "Email address",
+    "confirmation": "Accepts with pleasure",
+    "unConfirmation": "I can not attend",
+    "transportation": "Transportation",
+    "selfDrive": "Self-drive",
+    "bookDrive": "Book a seat to travel with TSDV friends",
+    "guestAttendNo": "Number of guest(s) attending",
+    "wishes": "Some sweetiest word to us",
+    "sendUs": "Send us",
+    "submitting": "Submitting...",
+    "guestNote": "We will prepare a bus for you at 519 Kim Ma, Ba Dinh, Ha Noi and start at 10:15 A.M. Please be noticed and confirmed with us for the preparation well",
+    "guestNameMessage": "Please input valid guest name from 0-50 characters.",
+    "emailMessage": "Please input valid email address",
+    "wishesMessage": "Please input valid wishes to us from 30-1000 characters",
+    "errorMessage": "An error occurred, please try again!",
+    "successMessage": "Thank you very much for your response and best wishes to us."
+  },
+  "wishes": {
+    "title": "From heart to heart"
+  },
+  "footer": {
+    "sayThanks": "Thank you"
+  },
+  "nav": {
+    "brideShortName": "H",
+    "groomShortName": "J",
+    "section": {
+      "couple": "Couple",
+      "events": "Events",
+      "story": "Story",
+      "gallery": "Gallery",
+      "rsvp": "R.S.V.P",
+      "wishes": "Wishes"
+    }
+  },
+  "toast": {
+    "title": "From J&H with love",
+    "now": "now"
+  }
+
+}

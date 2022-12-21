@@ -1,0 +1,126 @@
+{
+  "title": "Chào mừng quý vị và các bạn JJJ!!",
+  "description": "",
+  "banner": {
+    "days": "Ngày",
+    "hours": "Giờ",
+    "minutes": "Phút",
+    "seconds": "Giây"
+  },
+  "couple": {
+    "marriedDate": "30 tháng 10, 2022",
+    "inviation": "Trân trọng kính mời mọi người tới tham dự lễ thành hôn của tụi mình",
+    "groom": {
+      "name": "Công Mạnh",
+      "desc": "\"Làm gì mà cao thế?\" câu hỏi từ người lạ ơi dành cho Mạnh, đến từ Hà Tây quê lụa xD. Hiện tại đang là kĩ sư phần mềm tại Hà Nội, hiền lành ít nói, yêu cỏ xanh nắng vàng, ghét sự giả dối nhưng là trước đây thôi :))))). Mình thích chụp ảnh, thích tập gym và đá bóng, nhưng thích nhất là đi du lịch cùng vợ 💕"
+    },
+    "bridal": {
+      "name": "Minh Huế",
+      "desc": "Cô gái dễ thương đến từ Nam Định :), hiện đang là developer tại Hà Nội, một người dễ nói chuyện, yêu rừng xanh hơn là biển cả, đôi khi hơi mơ mộng một chút, nuôi ước mơ trở thành cô gái trồng hoa và rau ở Đà Lạt. Sắp sinh nhật 30 tủi thì tự nhiên được lấy chồng, hạnh phúc lắm ạ  💕 hí hí."
+    }
+  },
+  "event": {
+    "header": "Sự kiện đặc biệt của tụi mình",
+    "title": "Tiệc cưới và lễ thành hôn",
+    "gift4Us": "Mừng cưới",
+    "groom": {
+      "name": "Chú rể",
+      "title": "Lễ thành hôn và tiệc cưới",
+      "address": "Số 84, Xóm Tây Sơn, Thôn Vũ Lăng, Dân Hoà, Thanh Oai, Hà Nội",
+      "dayTime": "Chủ nhật, ngày 30"
+    },
+    "bride": {
+      "name": "Cô dâu",
+      "title": "Tiệc cưới nhà gái",
+      "address": "Xóm 14, Xã Xuân Phong, Xuân Trường, Nam Định",
+      "dayTime": "Thứ 7, ngày 29"
+    },
+    "monthYear": "Tháng 10, 2022",
+    "accountNo": "Số tài khoản",
+    "accountName": "Tên tài khoản",
+    "bankName": "Ngân hàng",
+    "viewMap": "Xem bản đồ",
+    "fromTime": "Từ 10:00 AM",
+    "toTime": "Tới 02:00 PM"
+  },
+  "story": {
+    "header-section": "TỤI MÌNH ĐÃ YÊU NHAU NHƯ THẾ NÀO 💕",
+    "title": "Chuyện tình IT",
+    "short-intro": "4 năm - một khoảng thời gian không quá dài cũng không quá ngắn, nhưng đó là thời gian để hai con tim có thể tìm thấy nhau ...",
+    "title-1": "Lần đầu gặp gỡ",
+    "date-1": "4 năm trước",
+    "description-1": "Ngày ấy, tụi mình có duyên làm đồng nghiệp tại TSDV (Toshiba), Huế - cô gái hay đỏ mặt với một vài vệ tinh xung quanh, Mạnh - chàng trai ít nói, thích Huế và cũng thích chụp ảnh Huế J. tụi mình ngồi làm việc chung ở 1 tầng, hay nói chuyện với nhau vào những bữa sáng trên công ty J, Mạnh bị ấn tượng về Huế bởi sự cá tính, bởi những lúc Huế đỏ mặt xD, nhưng duyên chưa tới nên tụi mình chỉ làm bạn, làm đồng nghiệp tốt.",
+    "title-2": "Xa cách",
+    "date-2": "1 năm sau",
+    "description-2": "Một thời gian sau, tụi mình mỗi người đều lần lượt chia tay mái nhà TSDV đi tìm những thử thách mới và YOLO với những niềm vui riêng cũng không có liên lạc gì với nhau cả ( do chú rể bị unfriend không lý do J )",
+    "title-3": "Gặp lại và yêu nhao",
+    "date-3": "Đầu năm 2022",
+    "description-3": "Thiên thời địa lợi nhân hoà, mùa xuân hoa nở, Mạnh kết bạn lại với Huế, tụi mình trò chuyện chia sẻ với nhau rất nhiều về khoảng thời gian đã qua, hai suy nghĩ, hai con tim đồng điệu đến mức bất ngờ, và tụi mình bắt đầu yêu nhau từ đó như thế. ",
+    "title-4": "Chuyến đi đầu tiên",
+    "date-4": "15.03.2022",
+    "description-4": "Một chút bất ngờ nhẹ, vào đúng dịp sinh nhật Huế, tụi mình tới thành phố Huế thơ mộng, thân thương với rất nhiều cảnh đẹp, sứ xở của các đặc sản nữa, huuu,. Kết quả là tụi mình tăng cân quá chừng LOL (tips: muốn tăng cân thì nên đi Huế nhé các bạn xD)",
+    "title-5": "Cầu hôn bất ngờ",
+    "date-5": "23.08.2022",
+    "description-5": "Trong chuyến đi foodtour cùng người chị thân thương nơi xa, Mạnh cầu hôn Huế bên bờ suối ở giữ núi rừng Madagui.",
+    "title-6": "Đám cưới rồi, ối rời ôi xD",
+    "date-6": "30.10.2022",
+    "description-6": "Và rồi hôm nay tụi mình thấy thực sự hạnh phúc và cần có nhau trong cuộc đời này. Niềm hạnh phúc sẽ được trọn vẹn khi có sự chung vui và chúc phúc từ những người mà tụi mình yêu thương và cũng yêu thương tụi mình. Rất mong chờ mọi người sẽ tới chung vui cùng tụi mình  💕."
+  },
+  "gallery": {
+    "header-section-01": "MỘT VÀI chiếc ảnh cứi BÉ XINH CỦA TỤI MÌNH",
+    "title-01": "Pre-wedding",
+    "short-intro-01": "\"Hãy làm những gì khiến bạn hạnh phúc và ở bên người khiến bạn mỉm cười mỗi ngày...\"",
+    "header-section": "",
+    "title": "Những chuyến đi",
+    "short-intro": "Cùng anh băng qua bao đại dương. Cùng anh đi vượt ngàn con đường ..."
+  },
+  "rsvp": {
+    "header-section": "Vui lòng phản hồi và xác nhận",
+    "sub-title-01": "Sự hiện diện của quý vị và các bạn là niềm hạnh phúc vô bờ bến cho gia đình mình, xin vui lòng xác nhận trước ngày 23 tháng 10.",
+    "sub-title-02": "Nếu quý vị và các bạn không thể tham dự, quý vị có thể để lại những lời chúc tốt đẹp nhất bên dưới tới tụi mình (bỏ qua check xác nhận). Trân trọng và biết ơn 💕",
+    "modal": {
+      "title": "Bạn có muốn gửi đi thông tin dưới đây không?",
+      "cancel": "Quay lại",
+      "okay": "Okay!"
+    },
+    "guestName": "Họ và tên",
+    "email": "Email",
+    "confirmation": "Tôi sẽ tham dự",
+    "unConfirmation": "Tôi không tham dự được",
+    "transportation": "Phương tiện",
+    "selfDrive": "Phương tiện tự túc",
+    "bookDrive": "Đi xe cùng đoàn TSDV",
+    "guestAttendNo": "Số người tham dự",
+    "wishes": "Lời chúc tới tụi mình",
+    "sendUs": "Gửi",
+    "submitting": "Đang gửi...",
+    "guestNote": "Tụi mình sẽ chuẩn bị một chuyến xe cho bạn tại 519 Kim Mã, Ba Đình, Hà Nội và xuất phát lúc 10:15 sáng. Hãy lưu ý và xác nhận để tụi mình chuẩn bị được chu đáo nhất.",
+    "guestNameMessage": "Vui lòng nhập họ và tên quý khách từ 10 - 50 kí tự (bắt buộc)",
+    "emailMessage": "Vui lòng nhập email đúng định dạng (bắt buộc)",
+    "wishesMessage": "Vui lòng nhập lời chúc tới tụi mình từ 30 - 1000 kí tự (bắt buộc)",
+    "errorMessage": "Có lỗi xảy ra, vui lòng thử lại bạn nhé!",
+    "successMessage": "Xin chân thành cảm ơn phản hồi và những lời chúc tốt đẹp nhất của bạn tới tụi mình."
+  },
+  "wishes": {
+    "title": "Những yêu thương"
+  },
+  "footer": {
+    "sayThanks": "Xin cảm ơn mọi người"
+  },
+  "nav": {
+    "brideShortName": "H",
+    "groomShortName": "M",
+    "section": {
+      "couple": "Cặp đôi",
+      "events": "Sự kiện",
+      "story": "Chuyện tình yêu",
+      "gallery": "Album",
+      "rsvp": "R.S.V.P",
+      "wishes": "Lời chúc"
+    }
+  },
+  "toast": {
+    "title": "From M&H with love",
+    "now": "bây giờ"
+  }
+}
